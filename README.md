@@ -1,9 +1,3 @@
-# C216
-
-Aqui está um **README** simples e bem estruturado para o seu projeto:
-
----
-
 # Sistema de Gerenciamento de Alunos
 
 Este projeto é um sistema simples em Python para **cadastrar**, **listar**, **atualizar** e **remover** alunos.
