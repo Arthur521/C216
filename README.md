@@ -57,7 +57,7 @@ Cada aluno possui:
 
 ## Exemplo de Uso
 
-### Cadastro de dois alunos no curso GES e um no curso ADM:
+### Cadastro de dois alunos no curso GES e um no curso GET:
 
 ```
 Digite o nome do aluno: João
@@ -72,19 +72,19 @@ Aluno Maria cadastrado com sucesso! Matrícula: GES2
 
 Digite o nome do aluno: Pedro
 Digite o e-mail do aluno: pedro@email.com
-Digite o curso do aluno: ADM
-Aluno Pedro cadastrado com sucesso! Matrícula: ADM1
+Digite o curso do aluno: GET
+Aluno Pedro cadastrado com sucesso! Matrícula: GET1
 ```
 
-### Listagem agrupada:
+### Listagem:
 
 ```
 Curso: GES
   - Nome: João, E-mail: joao@email.com, Matrícula: GES1
   - Nome: Maria, E-mail: maria@email.com, Matrícula: GES2
 
-Curso: ADM
-  - Nome: Pedro, E-mail: pedro@email.com, Matrícula: ADM1
+Curso: GET
+  - Nome: Pedro, E-mail: pedro@email.com, Matrícula: GET1
 ```
 
 ---
