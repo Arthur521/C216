@@ -1,0 +1,95 @@
+Menu:
+1. Cadastrar aluno
+2. Listar alunos  
+3. Atualizar aluno
+4. Remover aluno  
+5. Sair
+Opções: 1
+Digite o nome do aluno: Arthur Assis
+Digite o e-mail do aluno: arthur.assis@ges.inatel.br
+Digite o curso do aluno: GES
+Aluno Arthur Assis cadastrado com sucesso! Matrícula: GES1
+
+Menu:
+1. Cadastrar aluno
+2. Listar alunos
+3. Atualizar aluno
+4. Remover aluno
+5. Sair
+Opções: 1
+Digite o nome do aluno: José Eduardo de Paula Assis
+Digite o e-mail do aluno: eduardo.assis@get.inatel.br 
+Digite o curso do aluno: GET
+Aluno José Eduardo de Paula Assis cadastrado com sucesso! Matrícula: GET1
+
+Menu:
+1. Cadastrar aluno
+2. Listar alunos
+3. Atualizar aluno
+4. Remover aluno
+5. Sair
+Opções: 1
+Digite o nome do aluno: Victor Zeferino
+Digite o e-mail do aluno: victor.mendes@get.inatel.br
+Digite o curso do aluno: GET
+Aluno Victor Zeferino cadastrado com sucesso! Matrícula: GET2
+
+Menu:
+1. Cadastrar aluno
+2. Listar alunos
+3. Atualizar aluno
+4. Remover aluno
+5. Sair
+Opções: 2
+
+Curso: GES
+  - Nome: Arthur Assis, E-mail: arthur.assis@ges.inatel.br, Matrícula: GES1
+
+Curso: GET
+  - Nome: José Eduardo de Paula Assis, E-mail: eduardo.assis@get.inatel.br, Matrícula: GET1
+  - Nome: Victor Zeferino, E-mail: victor.mendes@get.inatel.br, Matrícula: GET2
+
+Menu:
+1. Cadastrar aluno
+2. Listar alunos
+3. Atualizar aluno
+4. Remover aluno
+5. Sair
+Opções: 3
+Digite o nome do aluno a ser atualizado: Victor Zeferino
+Digite o novo e-mail: victor.mendes@ges.inatel.br 
+Digite o novo curso: GES
+Aluno atualizado com sucesso!
+
+Menu:
+1. Cadastrar aluno
+2. Listar alunos
+3. Atualizar aluno
+4. Remover aluno
+5. Sair
+Opções: 4
+Digite o nome do aluno a ser removido: Victor Zeferino
+Aluno removido com sucesso!
+
+Menu:
+1. Cadastrar aluno
+2. Listar alunos
+3. Atualizar aluno
+4. Remover aluno
+5. Sair
+Opções: 2
+
+Curso: GES
+  - Nome: Arthur Assis, E-mail: arthur.assis@ges.inatel.br, Matrícula: GES1
+
+Curso: GET
+  - Nome: José Eduardo de Paula Assis, E-mail: eduardo.assis@get.inatel.br, Matrícula: GET1
+
+Menu:
+1. Cadastrar aluno
+2. Listar alunos
+3. Atualizar aluno
+4. Remover aluno
+5. Sair
+Opções: 5
+Saindo...
